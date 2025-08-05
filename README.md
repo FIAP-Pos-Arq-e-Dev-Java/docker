@@ -83,15 +83,3 @@ Antes de executar os scripts, instale os seguintes softwares:
 ├── setup.sh
 └── setup.bat
 ```
-
----
-
-## 🤝 Contribuição
-
-Pull requests são bem-vindas! Sinta-se livre para propor melhorias.
-
----
-
-## 📜 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
